@@ -13,5 +13,4 @@ Berikut merupakan tampilan aplikasi pada **MainActivity**:
 ![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image1.jpg?raw=true) ![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image2.jpg?raw=true) ![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image3.jpg?raw=true)
 
 PERTEMUAN 3 TUGAS 2
-[Tugas2](Tugas2.mp4)
-
+![Demo Aplikasi](Tugas2.gif)
