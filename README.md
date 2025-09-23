@@ -7,10 +7,11 @@ Deskripsi :
 Aplikasi ini dibuat untuk memenuhi tugas praktikum mobile.  
 Pada halaman utama (`MainActivity`), ditampilkan gambar gedung Fakultas Teknik, deskripsi singkat mengenai Program Studi Informatika, serta tombol untuk melanjutkan ke halaman berikutnya.
 
+PERTEMUAN 2 TUGAS 1
 Berikut merupakan tampilan aplikasi pada **MainActivity**:
 
-![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image1.jpg?raw=true)
+![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image1.jpg?raw=true) ![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image2.jpg?raw=true) ![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image3.jpg?raw=true)
 
-![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image2.jpg?raw=true)
+PERTEMUAN 3 TUGAS 2
+[Tugas2](Tugas2.mp4)
 
-![alt text](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image3.jpg?raw=true)
