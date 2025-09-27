@@ -11,7 +11,7 @@
         android:id="@+id/img_gedung_teknik"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:adjustViewBounds="true"
+        android:adjustViewBounds="false"
         android:scaleType="fitXY"
         android:src="@drawable/gedung_teknik" />
 
