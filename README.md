@@ -19,13 +19,28 @@ Pada halaman utama (`MainActivity`), ditampilkan:
 ## Pertemuan 2 - Tugas 1
 Berikut merupakan tampilan aplikasi pada **MainActivity**:
 
-![Tampilan 1](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image1.jpg?raw=true)  
-![Tampilan 2](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image2.jpg?raw=true)  
-![Tampilan 3](https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image3.jpg?raw=true)  
+<p align="center">
+  <img src="https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image1.jpg?raw=true" width="30%" />
+  <img src="https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image2.jpg?raw=true" width="30%" />
+  <img src="https://github.com/ZaizafunHanifah/PraktikumPemrogramanMobile/blob/master/image3.jpg?raw=true" width="30%" />
+</p>
 
 ---
 
 ## Pertemuan 3 - Tugas 2
 Demo aplikasi (GIF):
 
-![Demo Aplikasi](Tugas2.gif)
+<p align="center">
+  <img src="Tugas2.gif" width="50%" />
+</p>
+
+---
+
+## Pertemuan 4 - Tugas 2
+Demo aplikasi (GIF):
+
+<p align="center">
+  <img src="tugas3.gif" width="50%" />
+</p>
+
+---
