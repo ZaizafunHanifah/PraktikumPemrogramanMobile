@@ -36,7 +36,7 @@ Demo aplikasi (GIF):
 
 ---
 
-## Pertemuan 4 - Tugas 2
+## Pertemuan 4 - Tugas 3
 Demo aplikasi (GIF):
 
 <p align="center">
