@@ -38,6 +38,9 @@ class Halaman2Activity : AppCompatActivity() {
         // Instagram
         binding.layoutIg.imgIcon.setImageResource(R.drawable.ic_himpunan)
         binding.layoutIg.tvLayout.setText(R.string.ig_himpunan)
+
+        binding.layoutBuku.imgIcon.setImageResource(R.drawable.ic_book) // icon buku
+        binding.layoutBuku.tvLayout.setText(R.string.koleksi_buku)       // teks “Koleksi Buku”
     }
 
     private fun initListener() {
@@ -64,6 +67,10 @@ class Halaman2Activity : AppCompatActivity() {
         binding.layoutIg.root.setOnClickListener {
             val intent = Intent(Intent.ACTION_VIEW, getString(R.string.ig_himpunan).toUri())
             startActivity(intent)
+        }
+
+        binding.layoutBuku.root.setOnClickListener {
+            startActivity(Intent(this, DaftarBukuActivity::class.java))
         }
 
         // Back button
